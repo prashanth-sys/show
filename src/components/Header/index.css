@@ -1,0 +1,14 @@
+.nav-container {
+  background-color: rgb(189, 209, 202);
+  height: 15vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading {
+  font-family: "Great Vibes";
+}
+.image-logo {
+  width: 100px;
+  height: 90px;
+}
