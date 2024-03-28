@@ -4,11 +4,21 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
 }
-.heading {
-  font-family: "Great Vibes";
+.nav-heading {
+  font-family: "Great Vibes", cursive;
+  text-align: center;
 }
 .image-logo {
   width: 100px;
   height: 90px;
+}
+.list-items {
+  display: flex;
+}
+.list {
+  list-style-type: none;
+  margin-right: 55px;
+  font-weight: 500;
 }

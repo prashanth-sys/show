@@ -1,0 +1,94 @@
+.events-container {
+  background-color: rgb(214, 223, 230);
+  background-size: cover;
+  height: 100vh;
+}
+.wedding-photo {
+  width: 347px;
+  height: 491px;
+  top: 285.68px;
+  left: 223px;
+  gap: 0px;
+  border-radius: 241px 241px 0px 0px;
+  opacity: 0px;
+}
+.wedding-image-layout {
+  display: flex;
+  margin-top: 15px;
+}
+.home-container {
+  display: flex;
+}
+.flower-bottom {
+  width: 200px;
+  height: 200.5px;
+  top: 650.68px;
+  left: 90px;
+  gap: 0px;
+  opacity: 0px;
+  align-self: flex-end;
+}
+.flower-top {
+  width: 279px;
+  height: 266px;
+  top: 270px;
+  gap: 0px;
+  opacity: 0px;
+  align-self: flex-start;
+  margin-left: 0px;
+}
+.together-photo {
+  width: 224px;
+  height: 224px;
+  top: 696.68px;
+  left: 552px;
+  gap: 0px;
+  opacity: 0px;
+  align-self: flex-end;
+  margin-right: 0px;
+}
+.names-container {
+  margin-left: 17%;
+  margin-top: 7%;
+  font-size: 10px;
+}
+.welcome-note {
+  width: 321.83px;
+  height: 82.44px;
+  top: 404px;
+  left: 864px;
+  gap: 0px;
+  opacity: 0px;
+  color: #000000;
+  text-align: center;
+  font-weight: 400;
+}
+.together-text-container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+.couple-names-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+  align-items: center;
+}
+.couple-name {
+  font-family: "Fantasy", Cursive;
+  font-size: 52px;
+  font-weight: 400;
+  text-align: left;
+  margin-top: 35px;
+}
+.couple-wife {
+  font-family: "Fantasy", Cursive;
+  font-size: 52px;
+  font-weight: 400;
+  text-align: left;
+}
+.flower-right {
+  width: 120px;
+  height: 120px;
+  align-self: flex-end;
+}
